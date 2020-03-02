@@ -28,10 +28,11 @@ The latest quick guide: [Version1.1](https://www.researchgate.net/publication/33
 Scripts of examples for both 2D and 3D at the GitHub repository [here](https://github.com/SwaySZ/ExamplesSudoDEM)
 
 ## Installation
-
+Read the installation guide in the codes for compiling the sources on your computer.
 * * *
 
 ## References
+If you plan to publish your research work using this code, please consider citing one of the following publications:
 - Zhao S., Zhao J. (2019). **SudoDEM : a new open-source discrete element code for non-spherical particles**, to be submitted.
 - Zhao S., Zhao J. (2019) **A poly-superellipsoid-based approach on particle morphology for DEM modeling of granular media**. _International Journal for Numerical and Analytical Methods in Geomechanics_. DOI: 10.1002/nag.2951.
 - Zhao S., Evans T. M., Zhou X. (2018). **Effects of curvature-related DEM contact model on the macro-and micro-mechanical behaviours of granular soils**. _Gétechnique_, 68(12): 1085–1098.
