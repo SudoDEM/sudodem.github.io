@@ -12,13 +12,12 @@ The source code of SudoDEM2D/3D is hosted at a GitHub repository [SudoDEM](https
 - main program (with third-party libraries included) 
   - [Latest sources and binaries](https://github.com/SudoDEM/SudoDEM/releases/tag/v1.3.6)
   - [Older released versions](https://github.com/SudoDEM/SudoDEM/releases)
-![Binary downloads](https://img.shields.io/github/downloads/SudoDEM/SudoDEM/total)
 - third-party libraries:
    - sources: to do later (You can find them on their official pages).
    - binaries for 3D only:
      - [3rdlibs.tar.xz](https://zenodo.org/record/2683766#.XNQh7-EzY5k)[md5sum: 6f6bf4686d0a752dffba0259d9b50c07]
 
-Note: Binaries were compiled just for Ubuntu 14 ~ 18. For other Linux distributions, you have to comiple and install from the sources. The compilation and installation withour root will be introduced in the quick guide listed below.
+Note: Binaries were compiled just for Ubuntu 14 ~ 18 (![Binary downloads](https://img.shields.io/github/downloads/SudoDEM/SudoDEM/total)). For other Linux distributions, you have to comiple and install from the sources. The compilation and installation withour root will be introduced in the quick guide listed below.
 ## Manual
 
 The latest quick guide: [Version1.1](https://www.researchgate.net/publication/335392133_A_Quick_Guide_for_SudoDEM_A_Discrete_Element_Code_for_Non-spherical_Particles).
