@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Download ![GitHub All Releases](https://img.shields.io/github/downloads/SudoDEM/SudoDEM/total?label=Binary%20downloads&style=social)
+# Download
 
-## Package
+## Package![GitHub All Releases](https://img.shields.io/github/downloads/SudoDEM/SudoDEM/total?label=Binary%20downloads&style=social)
 * * *
 Please check this website or follow the [Project on Researchgate](https://www.researchgate.net/project/SudoDEM-a-discrete-element-code-for-non-spherical-particles) for the updates if needed.
 
