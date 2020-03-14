@@ -20,7 +20,7 @@
       <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         {% if site.description or site.github.project_tagline %}
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
+          <p>{{ site.description | default: site.github.project_tagline }}<a<img src="https://img.shields.io/github/license/SudoDEM/SudoDEM"/></a></p>
         {% endif %}
 
         <ul>
@@ -55,8 +55,8 @@
     </div>
     <footer>
       <p>Project maintained by <a href="https://www.swayzhao.tk">Shiwei Zhao</a></p>
-      <p><a href="#license" alt="license"> <img src="https://img.shields.io/github/license/SudoDEM/SudoDEM"/><img src="https://img.shields.io/github/languages/code-size/SudoDEM/SudoDEM"/></a>
-         <a href="#code size" alt="code size"> <img src="https://img.shields.io/github/languages/code-size/SudoDEM/SudoDEM"/></a>
+      <p>
+         <!--<a href="#code size" alt="code size"> <img src="https://img.shields.io/github/languages/code-size/SudoDEM/SudoDEM"/></a>-->
          <a href="https://github.com/SudoDEM/SudoDEM" alt="Binary downloads"> <img src="https://img.shields.io/github/downloads/SudoDEM/SudoDEM/total?label=Binary%20downloads&style=social" /></a></p>
     {% if site.hostpage %}
       <p>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
