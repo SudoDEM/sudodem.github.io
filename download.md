@@ -12,7 +12,7 @@ The source code of SudoDEM2D/3D is hosted at a GitHub repository [SudoDEM](https
 - main program (with third-party libraries included) 
   - [Latest sources and binaries](https://github.com/SudoDEM/SudoDEM/releases/tag/v1.3.6)
   - [Older released versions](https://github.com/SudoDEM/SudoDEM/releases)
-[Binary downloads](https://img.shields.io/github/downloads/SudoDEM/SudoDEM/total)
+![Binary downloads](https://img.shields.io/github/downloads/SudoDEM/SudoDEM/total)
 - third-party libraries:
    - sources: to do later (You can find them on their official pages).
    - binaries for 3D only:
