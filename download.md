@@ -9,10 +9,10 @@ layout: default
 Please check this website or follow the [Project on Researchgate](https://www.researchgate.net/project/SudoDEM-a-discrete-element-code-for-non-spherical-particles) for the updates if needed.
 
 The source code of SudoDEM2D/3D is hosted at a GitHub repository [SudoDEM](https://github.com/SudoDEM/SudoDEM).
-- main program (with third-party libraries included) ![GitHub All Releases](https://img.shields.io/github/downloads/SudoDEM/SudoDEM/total)
+- main program (with third-party libraries included) 
   - [Latest sources and binaries](https://github.com/SudoDEM/SudoDEM/releases/tag/v1.3.6)
   - [Older released versions](https://github.com/SudoDEM/SudoDEM/releases)
-
+[Binary downloads](https://img.shields.io/github/downloads/SudoDEM/SudoDEM/total)
 - third-party libraries:
    - sources: to do later (You can find them on their official pages).
    - binaries for 3D only:
