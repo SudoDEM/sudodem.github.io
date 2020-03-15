@@ -33,7 +33,7 @@ Read the installation guide in the codes for compiling the sources on your compu
 ## References
 If you plan to publish your research work using this code, please consider citing one of the following publications:
 - Zhao S., Zhao J. (2019). **SudoDEM : a new open-source discrete element code for non-spherical particles**, to be submitted.
-- Zhao S., Zhao J. (2019) **A poly-superellipsoid-based approach on particle morphology for DEM modeling of granular media**. _International Journal for Numerical and Analytical Methods in Geomechanics_. DOI: 10.1002/nag.2951.
+- Zhao S., Zhao J. (2019) **A poly-superellipsoid-based approach on particle morphology for DEM modeling of granular media**. _International Journal for Numerical and Analytical Methods in Geomechanics_. 43(13): 2147-2169.
 - Zhao S., Evans T. M., Zhou X. (2018). **Effects of curvature-related DEM contact model on the macro-and micro-mechanical behaviours of granular soils**. _Gétechnique_, 68(12): 1085–1098.
 - Zhao S., Zhang N., Zhou X., Zhang L. (2017). **Particle shape effects on fabric of granular random packing**. _Powder Technology_, 310, 175–186.
 
