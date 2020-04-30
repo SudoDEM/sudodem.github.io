@@ -3,6 +3,7 @@ layout: default
 ---
 
 # News
++ On April 30 2020, the version 1.2 of the quick guide was released.
 + On March 1 2020, we made the first release (version 1.3.6) with source codes and binaries on GitHub.
 + On March 1 2020, the website source codes were open-sourced on Github Pages, and the domain is https://sudodem.github.io.
 + On December 10 2019, a Wechat group was established for the interested users and/or developers. Feel free to contact me to join in the group.
