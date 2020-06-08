@@ -3,7 +3,7 @@ description: Discrete Element Code for Non-spherical Particles
 show_downloads: false
 google_analytics: UA-144989471-1
 theme: jekyll-theme-modernist
-show_publications: true
+show_publications: false
 
 
 # Reading Files
