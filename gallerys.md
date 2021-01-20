@@ -4,7 +4,7 @@ layout: default
 # Gallery
 
 ## GUI
-![](./docs/images/gui23d.svg)
+![](./docs/images/gui23d.png)
 ![](./docs/images/guipovray.png)
 
 ## <i>SudoDEM3D</i>
@@ -34,6 +34,7 @@ Triaxial Compression
 <center>Packing of superellipsoids</center>
 
 <img src="./docs/images/flexmemb.png" width="400"/>
+![](./docs/images/flexmemb.png)
 <center>Flexible membrane</center>
 
 <img src="./docs/images/landslides.png" width="400"/>
