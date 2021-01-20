@@ -15,6 +15,9 @@ Triaxial Compression
 ![gif1](./docs/images/triaxialtest-1.gif)
 <center>A triaxial compression test of poly-superellipsoidal particles.</center>
 
+<!--
+<img src="./docs/images/spheresandcubes.png" width="400"/>
+-->
 <img src="./docs/images/spheresandcubes.png" width="400"/>
 <center>Mixture of Cubes and Spheres</center>
 
@@ -34,7 +37,7 @@ Triaxial Compression
 <center>Packing of superellipsoids</center>
 
 <img src="./docs/images/flexmemb.png" width="400"/>
-![](./docs/images/flexmemb.png)
+
 <center>Flexible membrane</center>
 
 <img src="./docs/images/landslides.png" width="400"/>

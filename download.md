@@ -24,7 +24,7 @@ The latest quick guide: [Version 1.2](https://www.researchgate.net/publication/3
 
 ## Examples
 
-Scripts of examples for both 2D and 3D at the GitHub repository [here](https://github.com/SwaySZ/ExamplesSudoDEM)
+Scripts of examples for both 2D and 3D in the subfolder of source code, [here](https://github.com/SudoDEM/SudoDEM/tree/master/examples)
 
 ## Installation
 Read the installation guide in the codes for compiling the sources on your computer.
