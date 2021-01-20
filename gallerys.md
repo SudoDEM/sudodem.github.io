@@ -4,6 +4,7 @@ layout: default
 # Gallery
 
 ## GUI
+![](./docs/images/gui23d.svg)
 ![](./docs/images/sudodem2d.png)
 ![](./docs/images/sudodem3d.png)
 ![](./docs/images/sudodem2dgui.png)
