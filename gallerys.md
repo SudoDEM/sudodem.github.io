@@ -5,10 +5,7 @@ layout: default
 
 ## GUI
 ![](./docs/images/gui23d.svg)
-![](./docs/images/sudodem2d.png)
-![](./docs/images/sudodem3d.png)
-![](./docs/images/sudodem2dgui.png)
-![](./docs/images/sudodem3dgui.png)
+![](./docs/images/guipovray.png)
 
 ## <i>SudoDEM3D</i>
 
@@ -30,7 +27,17 @@ Triaxial Compression
 <img src="./docs/images/superellipsoids.png" width="400"/>
 <center>A cubic packing of super-ellipsoidal particles</center>
 
+<img src="./docs/images/conecylindercube.png" width="400"/>
+<center>Packings of cones, cylinders and cubes</center>
 
+<img src="./docs/images/superpacking.png" width="400"/>
+<center>Packing of superellipsoids</center>
+
+<img src="./docs/images/flexmemb.png" width="400"/>
+<center>Flexible membrane</center>
+
+<img src="./docs/images/landslides.png" width="400"/>
+<center>A landslide impacting a flexible barrier</center>
 
 ## <i>SudoDEM2D</i>
 <!--

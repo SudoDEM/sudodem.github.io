@@ -32,10 +32,10 @@ Read the installation guide in the codes for compiling the sources on your compu
 
 ## References
 If you plan to publish your research work using this code, please consider citing one of the following publications:
-- Zhao S., Zhao J. (2020). **SudoDEM : Unleashing the predictive power of the discrete element method on simulation for non-spherical granular particles**. _Computer Physics Communications_ (2020) 107670, https://doi.org/10.1016/j.cpc.2020.107670.
-- Zhao S., Zhao J. (2019) **A poly-superellipsoid-based approach on particle morphology for DEM modeling of granular media**. _International Journal for Numerical and Analytical Methods in Geomechanics_. 43(13): 2147-2169.
-- Zhao S., Evans T. M., Zhou X. (2018). **Effects of curvature-related DEM contact model on the macro-and micro-mechanical behaviours of granular soils**. _Gétechnique_, 68(12): 1085–1098.
-- Zhao S., Zhang N., Zhou X., Zhang L. (2017). **Particle shape effects on fabric of granular random packing**. _Powder Technology_, 310, 175–186.
+- Zhao S., Zhao J. (2021). **SudoDEM : Unleashing the predictive power of the discrete element method on simulation for non-spherical granular particles**. _Computer Physics Communications_, 259, 107670. ([PDF](./docs/pdfs/ZhaoandZhao2021.pdf))
+- Zhao S., Zhao J. (2019) **A poly-superellipsoid-based approach on particle morphology for DEM modeling of granular media**. _International Journal for Numerical and Analytical Methods in Geomechanics_. 43(13): 2147-2169. ([PDF](./docs/pdfs/ZhaoandZhao2019.pdf))
+- Zhao S., Evans T. M., Zhou X. (2018). **Effects of curvature-related DEM contact model on the macro-and micro-mechanical behaviours of granular soils**. _Gétechnique_, 68(12): 1085–1098. ([PDF](./docs/pdfs/Zhaoetal.2018.pdf))
+- Zhao S., Zhang N., Zhou X., Zhang L. (2017). **Particle shape effects on fabric of granular random packing**. _Powder Technology_, 310, 175–186. ([PDF](./docs/pdfs/Zhaoetal.2017.pdf))
 
 * * *
 
