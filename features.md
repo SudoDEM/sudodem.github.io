@@ -7,7 +7,7 @@ layout: default
 
 ## Basic Features
 Forked off YADE in 2014 with basic features:
-- C++ and Python (2.7)
+- C++ and Python 3
 - OpenMP acceleration
 - Linux platform
 
@@ -28,8 +28,7 @@ You may concern:
 - _Damping_: local and viscous damping
 
 ## On the list:
-- MPI & GPU acceleration (on-going)
-- Upgrading to Python 3
-- Escaping from Boost
+- MPI & GPU acceleration 
+- Escaping from Boost (on-going)
 
 [Back to top](#top) 
