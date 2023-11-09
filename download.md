@@ -9,6 +9,11 @@ layout: default
 Please check this website or follow the [Project on Researchgate](https://www.researchgate.net/project/SudoDEM-a-discrete-element-code-for-non-spherical-particles) for the updates if needed.
 
 The source code of SudoDEM2D/3D is hosted at a GitHub repository [SudoDEM](https://github.com/SudoDEM/SudoDEM).
+
+For Ubuntu 20.04:
+- [Latest release](https://github.com/SudoDEM/SudoDEM/releases/latest/)
+
+For Ubuntu 18.04 and older:
 - main program (with third-party libraries included) 
   - [Latest sources and binaries](https://github.com/SudoDEM/SudoDEM/releases/tag/v1.3.6)
   - [Older released versions](https://github.com/SudoDEM/SudoDEM/releases)
