@@ -10,15 +10,19 @@ Please check this website or follow the [Project on Researchgate](https://www.r
 
 The source code of SudoDEM2D/3D is hosted at a GitHub repository [SudoDEM](https://github.com/SudoDEM/SudoDEM).
 
-For Ubuntu 20.04:
-- [Latest release](https://github.com/SudoDEM/SudoDEM/releases/latest/)
+The source codes of the third-party libraries are hostd at a GitHub repository [3rdlibs](https://github.com/SudoDEM/3rdlibs).
+
+The latest compiled packages support Ubuntu 20.04, 22.04 and 24.04:
+- [Latest release included 3rdlibs](https://github.com/SudoDEM/SudoDEM/releases/latest/)
+
+The compiled third-party libraries can be downloaded if you do not prefer to compile them again:
+- [3rdlibs](https://github.com/SudoDEM/3rdlibs/releases/latest/)
 
 For Ubuntu 18.04 and older:
 - main program (with third-party libraries included) 
   - [Latest sources and binaries](https://github.com/SudoDEM/SudoDEM/releases/tag/v1.3.6)
   - [Older released versions](https://github.com/SudoDEM/SudoDEM/releases)
 - third-party libraries:
-   - sources: to do later (You can find them on their official pages).
    - binaries for 3D only:
      - [3rdlibs.tar.xz](https://zenodo.org/record/2683766#.XNQh7-EzY5k)[md5sum: 6f6bf4686d0a752dffba0259d9b50c07]
 
